@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egamovj
 - 👀 I’m interested in Boxing
-- 🌱 I’m currently learning React JS
+- 👨‍💻 I’m currently learning React JS
 
 <!---
 egamovj/egamovj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
