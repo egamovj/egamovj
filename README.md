@@ -12,4 +12,3 @@
 [![Egamov Jo'rabek's github stats](https://github-readme-stats.vercel.app/api?username=egamovj)](https://github.com/egamovj/github-readme-stats)
 
 ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=egamovj&langs_count=8&theme=vue)
-![ Top Langs ](https://github-readme-stats.netlify.app/api/top-langs/?username=egamovj&langs_count=8&theme=vue)
