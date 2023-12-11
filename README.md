@@ -2,7 +2,7 @@
 <h3 align="center">I'm A Front-End Developer from Uzbekistan.</h3>
 <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&vCenter=true&pause=500&color=0097FF&lines=Frontend+JavaScript+Developer;Software++Enginner;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&vCenter=true&pause=500&color=0097FF&lines=Frontend+JavaScript+Developer;Software++Engineer;Always+learning+new+things)](https://git.io/typing-svg)
 
 </h2>
 
