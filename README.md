@@ -11,5 +11,9 @@
 
 ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=egamovj&langs_count=8&theme=vue) [![Egamov Jo'rabek's github stats](https://github-readme-stats.vercel.app/api?username=egamovj)](https://github.com/egamovj/github-readme-stats)        
 
-<h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/egamovj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="220" alt="asys" /></a></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egamovj&show_icons=true&locale=en&layout=compact" alt="egamovj" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egamovj&show_icons=true&locale=en" alt="egamovj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egamovj&" alt="egamovj" /></p>
+
