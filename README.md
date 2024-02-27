@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋, I'm Jo'rabek</h1>
 <h3 align="center">I'm A Front-End Developer from Uzbekistan</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
+
 <!--   my-header-img -->
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 
