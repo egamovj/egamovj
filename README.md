@@ -23,6 +23,10 @@
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="Sass" />
       <br>Sass
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -47,10 +51,6 @@
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
       <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
-      <br>Bootstrap
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
