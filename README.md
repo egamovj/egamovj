@@ -1,14 +1,16 @@
 <h1 align="center">Hi there👋, I'm Jo'rabek</h1>
 <h3 align="center">I'm A Front-End Developer from Uzbekistan</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Engineer+Programmer)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Engineer+Programmer" alt="Typing SVG" />
+</div>
 
 <!--   my-header-img -->
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 
 # 💻 Tech Stack:
 
-<div style="display: flex; align-items: flex-start; align: start">
+<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
      <td align="center"  width="96">
