@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; align: start">
 <table align="center">
   <tr>
      <td align="center"  width="96">
