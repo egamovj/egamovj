@@ -13,7 +13,7 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-     <td   width="96">
+     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
