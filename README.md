@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Jo'rabek</h1>
 <h3  align="center">I'm A Front-End Developer from Uzbekistan</h3>
 
-<div>
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Engineer+Programmer;Software+Engineer" alt="Typing SVG" />
 </div>
 
